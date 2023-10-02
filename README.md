@@ -1,6 +1,6 @@
 # MesoGraph
 
-This repository is adapte from the code related to the MesoGraph which is accepted in Cell Reports Medicine
+This repository is adapted from MesoGraph 
 
 
 # Usage
